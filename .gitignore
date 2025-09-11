@@ -1,0 +1,12 @@
+.venv/
+local/
+temporal.db
+temporal.db-journal
+components/
+__pycache__/
+*/__pycache__/
+*.pyc
+.env
+github_repositories.json
+github_user_profile.json
+github_summary_stats.json
